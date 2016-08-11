@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>drawXFBClass</class>
+ <widget class="QWidget" name="drawXFBClass" >
+  <property name="objectName" >
+   <string notr="true">drawXFBClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>drawXFB</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="drawxfb.qrc"/>
+ </resources>
+ <connections/>
+</UI>
